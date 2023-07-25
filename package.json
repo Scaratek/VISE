@@ -1,0 +1,19 @@
+{
+    "name": "@scaratek/vise",
+    "version": "1.0.0",
+    "description": "Violets In-Secure Encryption",
+    "main": "vise.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/scaratek/vise.git"
+    },
+    "author": "violet",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/scaratek/vise/issues"
+    },
+    "homepage": "https://github.com/scaratek/vise#readme",
+    "dependencies": {
+        "crypto": "^1.0.1"
+    }
+}
